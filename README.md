@@ -6,4 +6,4 @@
 Либо же выберите на какой период: https://vk.com/market-186646279
 
 Рекомендую торговать с ним на брокере AezaTrade: https://aezatrade2024.ru
-https://www.youtube.com/watch?v=PVq3Qwer0GY
+(https://youtu.be/PVq3Qwer0GY "Торговля с ботом для AezaTrade")
