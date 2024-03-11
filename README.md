@@ -1,7 +1,9 @@
 # Бот для Бинарных опционов доступен в Telegram
 Ссылка на бота: https://t.me/boptionsb_bot<br>
 Купить лицензию бота: https://vk.me/binariumfreesignal<br>
-Цены лицензий на бота тут: https://vk.com/market-186646279 
+Цены лицензий на бота тут: https://vk.com/market-186646279<br>
+[Бот для Бинариум в телеграме]("https://www.youtube.com/watch?v=AboSoTfFd0U")
+
 
 # Инструкция по скачиванию бота для Бинариум или AezaTrade
 1) Перейдите по ссылке: https://github.com/DarwinGlority/BOptionsB/releases/tag/bot
