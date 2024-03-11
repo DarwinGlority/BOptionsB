@@ -1,5 +1,5 @@
 # Бот для Бинарных опционов доступен в Telegram
-Ссылка на бота: https://t.me/boptionsb_bot &nbsp;
+Ссылка на бота: https://t.me/boptionsb_bot&nbsp;
 Купить лицензию бота: https://vk.me/binariumfreesignal &nbsp;
 Цены лицензий на бота тут: https://vk.com/market-186646279 
 
