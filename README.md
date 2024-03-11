@@ -1,3 +1,6 @@
+# Бот для Бинарных опцционов доступен в Telegram
+Ссылка на бота: https://t.me/boptionsb_bot
+
 # Инструкция по скачиванию бота для Бинариум или AezaTrade
 1) Перейдите по ссылке: https://github.com/DarwinGlority/BOptionsB/releases/tag/bot
 2) Нажмите на BOptionsB.exe
