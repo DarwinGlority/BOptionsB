@@ -2,7 +2,7 @@
 Ссылка на бота: https://t.me/boptionsb_bot<br>
 Купить лицензию бота: https://vk.me/binariumfreesignal<br>
 Цены лицензий на бота тут: https://vk.com/market-186646279<br>
-[Бот для Бинариум в телеграме]("https://www.youtube.com/watch?v=AboSoTfFd0U")
+[![Бот для бинариум в телеграме обзор](https://img.youtube.com/vi/AboSoTfFd0U/0.jpg)](https://www.youtube.com/watch?v=AboSoTfFd0U)
 
 
 # Инструкция по скачиванию бота для Бинариум или AezaTrade
