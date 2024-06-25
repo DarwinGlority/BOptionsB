@@ -7,7 +7,7 @@
 [![Бот для бинариум в телеграме обзор](https://img.youtube.com/vi/AboSoTfFd0U/0.jpg)](https://www.youtube.com/watch?v=AboSoTfFd0U)
 
 
-# Инструкция по скачиванию бота для Бинариум или AezaTrade
+# Инструкция по скачиванию бота для Бинариум или Pocket Option
 1) Перейдите по ссылке: https://github.com/DarwinGlority/BOptionsB/releases/tag/bot
 2) Нажмите на BOptionsB.exe
 3) Откройте BOptionsB.exe у вас запросит лицензионный ключ
